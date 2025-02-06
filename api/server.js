@@ -4,8 +4,20 @@ const server = jsonServer.create();
 
 // Define your data directly in the code, simulating the db.json content
 const db = {
-  branches: {
-    ekbatan: {
+  branches: [
+    {
+      id: 1,
+      name: "ekbatan",
+      title: "شعبه اکباتان",
+      image:
+        "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-1.jfif",
+      phone_numberes: {
+        mobile: "۰۲۱-۵۴۸۹۱۲۵۰-۵۱",
+        desktop_1: "۰۲۱-۵۴۸۹۱۲۵۰",
+        desktop_2: "۰۲۱-۵۴۸۹۱۲۵۱",
+      },
+      location: "شهرک اکباتان، فاز ۳، مجتمع تجاری کوروش، طبقه سوم",
+      work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
       special_foods: [
         {
           id: "1",
@@ -192,18 +204,6 @@ const db = {
           isLiked: false,
         },
       ],
-      information: {
-        title: "شعبه اکباتان",
-        image:
-          "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-1.jfif",
-        phone_numberes: {
-          mobile: "۰۲۱-۵۴۸۹۱۲۵۰-۵۱",
-          desktop_1: "۰۲۱-۵۴۸۹۱۲۵۰",
-          desktop_2: "۰۲۱-۵۴۸۹۱۲۵۱",
-        },
-        location: "شهرک اکباتان، فاز ۳، مجتمع تجاری کوروش، طبقه سوم",
-        work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
-      },
       comments: [
         {
           id: "1",
@@ -237,7 +237,20 @@ const db = {
         },
       ],
     },
-    chalos: {
+    {
+      id: 2,
+      name: "chalos",
+      title: "شعبه چالوس",
+      image:
+        "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-2.jfif",
+      phone_numberes: {
+        mobile: "۰۲۱-۵۴۸۹۱۲۵۲-۵۳",
+        desktop_1: "۰۲۱-۵۴۸۹۱۲۵۲",
+        desktop_2: "۰۲۱-۵۴۸۹۱۲۵۳",
+      },
+      location:
+        "چالوس، خیابان ۱۷ شهریور، بعد کوچه کوروش، جنب داروخانه دکتر میلانی",
+      work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
       special_foods: [
         {
           id: "1",
@@ -424,19 +437,6 @@ const db = {
           isLiked: false,
         },
       ],
-      information: {
-        title: "شعبه چالوس",
-        image:
-          "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-2.jfif",
-        phone_numberes: {
-          mobile: "۰۲۱-۵۴۸۹۱۲۵۲-۵۳",
-          desktop_1: "۰۲۱-۵۴۸۹۱۲۵۲",
-          desktop_2: "۰۲۱-۵۴۸۹۱۲۵۳",
-        },
-        location:
-          "چالوس، خیابان ۱۷ شهریور، بعد کوچه کوروش، جنب داروخانه دکتر میلانی",
-        work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
-      },
       comments: [
         {
           id: "1",
@@ -470,7 +470,19 @@ const db = {
         },
       ],
     },
-    aghdasiyeh: {
+    {
+      id: 3,
+      name: "aghdasiyeh",
+      title: "شعبه اقدسیه",
+      image:
+        "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-3.jfif",
+      phone_numberes: {
+        mobile: "۰۲۱-۵۴۸۹۱۲۵۴-۵۵",
+        desktop_1: "۰۲۱-۵۴۸۹۱۲۵۴",
+        desktop_2: "۰۲۱-۵۴۸۹۱۲۵۵",
+      },
+      location: "خیابان اقدسیه ، نرسیده به میدان خیام، پلاک ۸",
+      work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
       special_foods: [
         {
           id: "1",
@@ -657,18 +669,6 @@ const db = {
           isLiked: false,
         },
       ],
-      information: {
-        title: "شعبه اقدسیه",
-        image:
-          "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-3.jfif",
-        phone_numberes: {
-          mobile: "۰۲۱-۵۴۸۹۱۲۵۴-۵۵",
-          desktop_1: "۰۲۱-۵۴۸۹۱۲۵۴",
-          desktop_2: "۰۲۱-۵۴۸۹۱۲۵۵",
-        },
-        location: "خیابان اقدسیه ، نرسیده به میدان خیام، پلاک ۸",
-        work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
-      },
       comments: [
         {
           id: "1",
@@ -702,7 +702,19 @@ const db = {
         },
       ],
     },
-    vanak: {
+    {
+      id: 4,
+      name: "vanak",
+      title: "شعبه ونک",
+      image:
+        "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-4.jfif",
+      phone_numberes: {
+        mobile: "۰۲۱-۵۴۸۹۱۲۵۶-۵۷",
+        desktop_1: "۰۲۱-۵۴۸۹۱۲۵۶",
+        desktop_2: "۰۲۱-۵۴۸۹۱۲۵۷",
+      },
+      location: "میدان ونک، خیابان فردوسی، نبش کوچه نیلوفر، پلاک ۲۶",
+      work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
       special_foods: [
         {
           id: "1",
@@ -889,18 +901,6 @@ const db = {
           isLiked: false,
         },
       ],
-      information: {
-        title: "شعبه ونک",
-        image:
-          "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/info-4.jfif",
-        phone_numberes: {
-          mobile: "۰۲۱-۵۴۸۹۱۲۵۶-۵۷",
-          desktop_1: "۰۲۱-۵۴۸۹۱۲۵۶",
-          desktop_2: "۰۲۱-۵۴۸۹۱۲۵۷",
-        },
-        location: "میدان ونک، خیابان فردوسی، نبش کوچه نیلوفر، پلاک ۲۶",
-        work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
-      },
       comments: [
         {
           id: "1",
@@ -934,7 +934,7 @@ const db = {
         },
       ],
     },
-  },
+  ],
   menu: {
     main_dish: {
       persian_foods: [
