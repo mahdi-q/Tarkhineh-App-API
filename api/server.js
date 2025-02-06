@@ -935,8 +935,10 @@ const db = {
       ],
     },
   ],
-  menu: {
-    main_dish: {
+  menu: [
+    {
+      id: 1,
+      name: "main_dish",
       persian_foods: [
         {
           id: "1",
@@ -1375,7 +1377,9 @@ const db = {
         },
       ],
     },
-    appetizer: {
+    {
+      id: 2,
+      name: "appetizer",
       persian_appetizers: [
         {
           id: "1",
@@ -1814,7 +1818,9 @@ const db = {
         },
       ],
     },
-    dessert: {
+    {
+      id: 3,
+      name: "dessert",
       persian_desserts: [
         {
           id: "1",
@@ -2253,7 +2259,9 @@ const db = {
         },
       ],
     },
-    drink: {
+    {
+      id: 4,
+      name: "drink",
       persian_drinks: [
         {
           id: "1",
@@ -2692,7 +2700,7 @@ const db = {
         },
       ],
     },
-  },
+  ],
 };
 
 // Use jsonServer.router with the embedded database object
