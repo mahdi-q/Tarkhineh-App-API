@@ -79,6 +79,30 @@ const db = {
           rate: "۵",
           isLiked: false,
         },
+        {
+          id: "16",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+          title: "ساندویچ کتلت مخصوص",
+          main_price: "۲۳۰٬۰۰۰",
+          discount: "%۱۸",
+          price: "۲۰۵٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
+          id: "17",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+          title: "میرزا قاسمی",
+          main_price: "۱۶۵٬۰۰۰",
+          discount: "%۱۰",
+          price: "۱۴۲٬۵۰۰ ",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
       ],
       famous_foods: [
         {
@@ -141,6 +165,30 @@ const db = {
           rate: "۵",
           isLiked: false,
         },
+        {
+          id: "18",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+          title: "ساندویچ سوسیس کوکتل",
+          main_price: "۲۰۵٬۰۰۰",
+          discount: "%۳۵",
+          price: "۱۶۵٬۰۰۰",
+          rate: "4",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
+          id: "19",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+          title: "فلافل",
+          main_price: "",
+          discount: "",
+          price: "۸۰٬۰۰۰",
+          rate: "3",
+          score: "۷۲",
+          isLiked: false,
+        },
       ],
       foreign_foods: [
         {
@@ -201,6 +249,30 @@ const db = {
           price: "۱۵۰,۰۰۰",
           score: "۵۹",
           rate: "۵",
+          isLiked: false,
+        },
+        {
+          id: "20",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+          title: "پیتزا اسفناج",
+          main_price: "۲۸۰٬۰۰۰",
+          discount: "%۱۰",
+          price: "۲۵۲٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
+          id: "21",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+          title: "پالاک پنیر ",
+          main_price: "۲۰۰٬۰۰۰",
+          discount: "%۱۵",
+          price: "۱۸۰٬۰۰۰ ",
+          rate: "4",
+          score: "۷۲",
           isLiked: false,
         },
       ],
@@ -265,6 +337,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "16",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+          title: "ساندویچ کتلت مخصوص",
+          main_price: "۲۳۰٬۰۰۰",
+          discount: "%۱۸",
+          price: "۲۰۵٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "2",
           title: "بادمجان شکم‌پر",
           image:
@@ -286,6 +370,18 @@ const db = {
           price: "۱۵۰,۰۰۰",
           score: "۵۰",
           rate: "۵",
+          isLiked: false,
+        },
+        {
+          id: "17",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+          title: "میرزا قاسمی",
+          main_price: "۱۶۵٬۰۰۰",
+          discount: "%۱۰",
+          price: "۱۴۲٬۵۰۰ ",
+          rate: "5",
+          score: "۷۲",
           isLiked: false,
         },
         {
@@ -314,6 +410,18 @@ const db = {
         },
       ],
       famous_foods: [
+        {
+          id: "19",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+          title: "فلافل",
+          main_price: "",
+          discount: "",
+          price: "۸۰٬۰۰۰",
+          rate: "3",
+          score: "۷۲",
+          isLiked: false,
+        },
         {
           id: "6",
           title: "راتاتویی",
@@ -363,6 +471,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "18",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+          title: "ساندویچ سوسیس کوکتل",
+          main_price: "۲۰۵٬۰۰۰",
+          discount: "%۳۵",
+          price: "۱۶۵٬۰۰۰",
+          rate: "4",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "10",
           title: "بورانی بادمجان",
           image:
@@ -389,6 +509,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "20",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+          title: "پیتزا اسفناج",
+          main_price: "۲۸۰٬۰۰۰",
+          discount: "%۱۰",
+          price: "۲۵۲٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "12",
           title: "سالاد خانگی",
           image:
@@ -410,6 +542,18 @@ const db = {
           price: "۸۵,۰۰۰",
           score: "۷۰",
           rate: "۴",
+          isLiked: false,
+        },
+        {
+          id: "21",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+          title: "پالاک پنیر ",
+          main_price: "۲۰۰٬۰۰۰",
+          discount: "%۱۵",
+          price: "۱۸۰٬۰۰۰ ",
+          rate: "4",
+          score: "۷۲",
           isLiked: false,
         },
         {
@@ -441,32 +585,32 @@ const db = {
         {
           id: "1",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-1.jfif",
-          name: "آرزو محمدعلیزاده",
-          date: "۲۳ اسفند ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-4.jfif",
+          name: "محمدرضا رستمی",
+          date: "۱۰ فروردین ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه چالوس هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه چالوس رستوران‌های ترخینه واقعا تشکر میکنم. ",
-          rate: "۴",
+            "منظره‌ی فوق‌العاده‌ای داره، مخصوصاً وقتی کنار پنجره می‌نشینی و صدای دریا میاد. کیفیت غذاها خیلی خوب بود، مخصوصاً ماهی و دوغ محلی‌شون.",
+          rate: "۵",
         },
         {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-2.jfif",
-          name: "سردار وظیفه",
-          date: "۱۹ اسفند ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-5.jfif",
+          name: "الناز کیانی",
+          date: "۲۶ اردیبهشت ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه چالوس هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه چالوس رستوران‌های ترخینه واقعا تشکر میکنم. ",
+            "فضای رستوران واقعا آرامش‌بخشه. غذاها تازه و خوش‌طعم بودن ولی سرویس‌دهی کمی طول کشید.",
           rate: "۴",
         },
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-3.jfif",
-          name: "علی مضفری",
-          date: "۲۳ بهمن ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-6.jfif",
+          name: "مهیار احمدی",
+          date: "۱۲ خرداد ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه چالوس هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه چالوس رستوران‌های ترخینه واقعا تشکر میکنم. ",
-          rate: "۴",
+            "اولین بار بود اینجا غذا می‌خوردم. برخورد پرسنل عالی بود و فضای خانوادگی خوبی داشت.",
+          rate: "۵",
         },
       ],
     },
@@ -484,6 +628,18 @@ const db = {
       location: "خیابان اقدسیه ، نرسیده به میدان خیام، پلاک ۸",
       work_time: "همه‌روزه از ساعت ۱۲ الی ۲۳",
       special_foods: [
+        {
+          id: "17",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+          title: "میرزا قاسمی",
+          main_price: "۱۶۵٬۰۰۰",
+          discount: "%۱۰",
+          price: "۱۴۲٬۵۰۰ ",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
         {
           id: "1",
           title: "بادمجان شکم‌پر",
@@ -530,6 +686,18 @@ const db = {
           price: "۲۰۹,۰۰۰",
           score: "۵۲",
           rate: "۵",
+          isLiked: false,
+        },
+        {
+          id: "16",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+          title: "ساندویچ کتلت مخصوص",
+          main_price: "۲۳۰٬۰۰۰",
+          discount: "%۱۸",
+          price: "۲۰۵٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
           isLiked: false,
         },
         {
@@ -571,6 +739,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "18",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+          title: "ساندویچ سوسیس کوکتل",
+          main_price: "۲۰۵٬۰۰۰",
+          discount: "%۳۵",
+          price: "۱۶۵٬۰۰۰",
+          rate: "4",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "8",
           title: "پنینی اسفناج",
           image:
@@ -580,6 +760,18 @@ const db = {
           price: "۱۹۰,۰۰۰",
           score: "۲۰",
           rate: "۳",
+          isLiked: false,
+        },
+        {
+          id: "19",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+          title: "فلافل",
+          main_price: "",
+          discount: "",
+          price: "۸۰٬۰۰۰",
+          rate: "3",
+          score: "۷۲",
           isLiked: false,
         },
         {
@@ -608,6 +800,18 @@ const db = {
         },
       ],
       foreign_foods: [
+        {
+          id: "21",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+          title: "پالاک پنیر ",
+          main_price: "۲۰۰٬۰۰۰",
+          discount: "%۱۵",
+          price: "۱۸۰٬۰۰۰ ",
+          rate: "4",
+          score: "۷۲",
+          isLiked: false,
+        },
         {
           id: "11",
           title: "سوشی",
@@ -657,6 +861,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "20",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+          title: "پیتزا اسفناج",
+          main_price: "۲۸۰٬۰۰۰",
+          discount: "%۱۰",
+          price: "۲۵۲٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "15",
           title: "لازانیا",
           image:
@@ -673,32 +889,32 @@ const db = {
         {
           id: "1",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-1.jfif",
-          name: "آرزو محمدعلیزاده",
-          date: "۲۳ اسفند ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-7.jfif",
+          name: "نگین سهرابی",
+          date: "۵ تیر ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه اقدسیه هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اقدسیه رستوران‌های ترخینه واقعا تشکر میکنم. ",
-          rate: "۴",
+            "فضای داخلی بسیار شیک و مدرن بود. غذاها هم با کیفیت بالا سرو شدن. حتما دوباره میام.",
+          rate: "۵",
         },
         {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-2.jfif",
-          name: "سردار وظیفه",
-          date: "۲۰ بهمن ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-8.jfif",
+          name: "مانی حسینی",
+          date: "۱۸ مرداد ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه اقدسیه هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اقدسیه رستوران‌های ترخینه واقعا تشکر میکنم. ",
+            "غذاها خوش‌طعم بودن ولی قیمت‌ها کمی بالا بود. در کل تجربه‌ی خوبی بود.",
           rate: "۴",
         },
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-3.jfif",
-          name: "علی مضفری",
-          date: "۱۲ دی ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-9.jfif",
+          name: "فاطمه ذاکری",
+          date: "۲۸ شهریور ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه اقدسیه هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه اقدسیه رستوران‌های ترخینه واقعا تشکر میکنم. ",
-          rate: "۴",
+            "محیط رستوران خیلی دلنشین بود. پیشنهاد می‌کنم سالاد مخصوص‌شون رو امتحان کنید، عالی بود.",
+          rate: "۵",
         },
       ],
     },
@@ -729,6 +945,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "17",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+          title: "میرزا قاسمی",
+          main_price: "۱۶۵٬۰۰۰",
+          discount: "%۱۰",
+          price: "۱۴۲٬۵۰۰ ",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "2",
           title: "بادمجان شکم‌پر",
           image:
@@ -776,6 +1004,18 @@ const db = {
           rate: "۵",
           isLiked: false,
         },
+        {
+          id: "16",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+          title: "ساندویچ کتلت مخصوص",
+          main_price: "۲۳۰٬۰۰۰",
+          discount: "%۱۸",
+          price: "۲۰۵٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
       ],
       famous_foods: [
         {
@@ -800,6 +1040,18 @@ const db = {
           price: "۱۹۰,۰۰۰",
           score: "۲۰",
           rate: "۳",
+          isLiked: false,
+        },
+        {
+          id: "19",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+          title: "فلافل",
+          main_price: "",
+          discount: "",
+          price: "۸۰٬۰۰۰",
+          rate: "3",
+          score: "۷۲",
           isLiked: false,
         },
         {
@@ -836,6 +1088,18 @@ const db = {
           price: "۱۴۸,۰۰۰",
           score: "۷۵",
           rate: "۵",
+          isLiked: false,
+        },
+        {
+          id: "18",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+          title: "ساندویچ سوسیس کوکتل",
+          main_price: "۲۰۵٬۰۰۰",
+          discount: "%۳۵",
+          price: "۱۶۵٬۰۰۰",
+          rate: "4",
+          score: "۷۲",
           isLiked: false,
         },
       ],
@@ -877,6 +1141,18 @@ const db = {
           isLiked: false,
         },
         {
+          id: "20",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+          title: "پیتزا اسفناج",
+          main_price: "۲۸۰٬۰۰۰",
+          discount: "%۱۰",
+          price: "۲۵۲٬۰۰۰",
+          rate: "5",
+          score: "۷۲",
+          isLiked: false,
+        },
+        {
           id: "14",
           title: "سالاد خانگی",
           image:
@@ -886,6 +1162,18 @@ const db = {
           price: "۱۵۰,۰۰۰",
           score: "۵۹",
           rate: "۵",
+          isLiked: false,
+        },
+        {
+          id: "21",
+          image:
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+          title: "پالاک پنیر ",
+          main_price: "۲۰۰٬۰۰۰",
+          discount: "%۱۵",
+          price: "۱۸۰٬۰۰۰ ",
+          rate: "4",
+          score: "۷۲",
           isLiked: false,
         },
         {
@@ -905,32 +1193,32 @@ const db = {
         {
           id: "1",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-1.jfif",
-          name: "آرزو محمدعلیزاده",
-          date: "۲۲ اسفند ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-10.jfif",
+          name: "سحر مرادی",
+          date: "۱۵ مهر ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه ونک هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه ونک رستوران‌های ترخینه واقعا تشکر میکنم. ",
-          rate: "۴",
+            "شعبه ونک همیشه شلوغه ولی ارزش صبر کردن داره. غذاها با کیفیت بالا و سرویس سریع بود.",
+          rate: "۵",
         },
         {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-2.jfif",
-          name: "سردار وظیفه",
-          date: "۱۹ بهمن ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-11.jfif",
+          name: "امیر نادری",
+          date: "۳۰ آبان ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه ونک هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه ونک رستوران‌های ترخینه واقعا تشکر میکنم. ",
+            "فضای بیرونی خیلی قشنگه مخصوصاً شب‌ها. فقط میزها کمی به هم نزدیک بودن.",
           rate: "۴",
         },
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-3.jfif",
-          name: "علی مضفری",
-          date: "۱۸ بهمن ۱۴۰۱",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/branches/c-12.jfif",
+          name: "پریسا یزدی",
+          date: "۲۴ آذر ۱۴۰۲",
           description:
-            "از با صفا بودن شعبه ونک هر چی بگم کم گفتم. بهترین غذاهای گیاهی عمرمو اینجا خوردم. از مدیریت شعبه ونک رستوران‌های ترخینه واقعا تشکر میکنم. ",
-          rate: "۴",
+            "یکی از بهترین تجربه‌های غذاخوردنم بود. کارکنان خیلی مؤدب بودن و پاستاها فوق‌العاده.",
+          rate: "۵",
         },
       ],
     },
