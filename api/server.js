@@ -1231,7 +1231,7 @@ const db = {
         {
           id: "1",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-1.jfif",
           title: "کوفته برنجی",
           detail: "برنج سبزی کوفته لپه آرد نخودچی، گردو و زرشک و آلو پیاز",
           main_price: "۱۸۰٬۰۰۰",
@@ -1244,7 +1244,7 @@ const db = {
         {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-2.jfif",
           title: "کشک بادمجان",
           detail: "بادمجان، کشک، نعناع خشک، مغز گردو، سیر، پیاز",
           main_price: "",
@@ -1257,7 +1257,7 @@ const db = {
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-3.jfif",
           title: "میرزا قاسمی",
           detail: "بادمجان، گوجه فرنگی، تخم مرغ، سیر، رب گوجه فرنگی",
           main_price: "۱۶۵٬۰۰۰",
@@ -1270,7 +1270,7 @@ const db = {
         {
           id: "4",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-4.jfif",
           title: "باقلاقاتوق",
           detail: "پاچ باقلا، شوید خشک، کره، سیر، تخم مرغ",
           main_price: "۲۰۵٬۰۰۰",
@@ -1283,7 +1283,7 @@ const db = {
         {
           id: "5",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-5.jfif",
           title: "فلافل",
           detail: "نخود، پیاز، تخم گشنیز، سیر، جعفری، سیب زمینی",
           main_price: "",
@@ -1296,7 +1296,7 @@ const db = {
         {
           id: "6",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-6.jfif",
           title: "کله جوش",
           detail: "کشک، گردو، پیاز، نعناع خشک",
           main_price: "۲۱۰٬۰۰۰",
@@ -1309,7 +1309,7 @@ const db = {
         {
           id: "7",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-7.jfif",
           title: "بورانی بادمجان",
           detail: "بادمجان قلمی، ماست چکیده، سیر، روغن زیتون، مغز گردو",
           main_price: "۱۷۰٬۰۰۰",
@@ -1322,7 +1322,7 @@ const db = {
         {
           id: "8",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-8.jfif",
           title: "بادمجان شکم‌پر",
           detail: "بادمجان، پیاز، گوجه فرنگی، سبزی خشک",
           main_price: "۱۵۰٬۰۰۰",
@@ -1335,7 +1335,7 @@ const db = {
         {
           id: "9",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-9.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-9.jfif",
           title: "دلمه برگ کلم",
           detail: "کلم برگ، برنج، لپه پخته، پیاز، سبزی معطر، رب",
           main_price: "۲۲۰٬۰۰۰",
@@ -1348,7 +1348,7 @@ const db = {
         {
           id: "10",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-10.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-10.jfif",
           title: "دلمه برگ مو",
           detail: "پیاز، برنج، لپه، سبزی دلمه، سرکه",
           main_price: "",
@@ -1361,7 +1361,7 @@ const db = {
         {
           id: "11",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-11.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-11.jfif",
           title: "کوکو سبزی",
           detail: "تخم مرغ، گردو، سیر، آرد، روغن مایع، سبزی‌ کوکویی",
           main_price: "۳۰۰٬۰۰۰",
@@ -1374,7 +1374,7 @@ const db = {
         {
           id: "12",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-12.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-12.jfif",
           title: "کوکو سیب‌زمینی و عدس",
           detail: "عدس، سیب زمینی، پیاز متوسط، تخم مرغ، پودر سیر، آرد سوخاری",
           main_price: "۱۳۵٬۰۰۰",
@@ -1389,7 +1389,7 @@ const db = {
         {
           id: "13",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-1.jfif",
           title: "پاستا سبزیجات",
           detail: "پاستا، قارچ، گوجه، کدوی خوردشده، پیاز خلالی‌شده",
           main_price: "۱۷۵٬۰۰۰",
@@ -1402,7 +1402,7 @@ const db = {
         {
           id: "14",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-2.jfif",
           title: "پاستا بلونز",
           detail:
             "اسپاگتی، گوشت چرخ کرده، هویج، ساقه کرفس، گوجه فرنگی، سیر، پیاز، پنیر پارمزان، روغن زیتون",
@@ -1416,7 +1416,7 @@ const db = {
         {
           id: "15",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-3.jfif",
           title: "راتاتویی",
           detail:
             "بادمجان، گوجه فرنگی، کدو سبز، پیاز، رب گوجه فرنگی، روغن زیتون، پنیر پارمزان",
@@ -1430,7 +1430,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-4.jfif",
           title: "لازانیا",
           detail:
             "لازانیا، قارچ، ریحان تازه، جعفری تازه، گوجه فرنگی، پنیر پیتزا، بادمجان",
@@ -1444,7 +1444,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-5.jfif",
           title: "سوشی",
           detail:
             "جلبک دریایی/ نوری، برنج کته، سرکه سفید (یا سرکه برنج)، شکر، نمک دریا",
@@ -1458,7 +1458,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-6.jfif",
           title: "پاکورا سبزیجات",
           detail: "گرام ماسالا، پودر کاری، سیر له شده، ،گشنیز خرد شده",
           main_price: "۱۲۵٬۰۰۰",
@@ -1471,7 +1471,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-7.jfif",
           title: "کالزونه اسفناج",
           detail:
             "اسفناج، قارچ، پنیر موزارلا یا پنیر پیتزا، پنیر ریکوتا یا پنیر خامه ای، پیاز، سیر، روغن زیتون",
@@ -1485,7 +1485,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-8.jfif",
           title: "پالاک پنیر ",
           detail: "پنیر، اسفناج، گوجه، پیاز، سیر ",
           main_price: "۲۰۰٬۰۰۰",
@@ -1500,7 +1500,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-1.jfif",
           title: "پیتزا روکولا",
           detail:
             "اسفناج، سبزی روکولا، آرد، پودر مایه خمیر، روغن زیتون، خردل، سیر، پنیر موزارلا و پارمسان، گوجه گیلاسی ،سس فلفل سبز تند ",
@@ -1514,7 +1514,7 @@ const db = {
         {
           id: "22",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-2.jfif",
           title: "پیتزا بادمجان و زیتون",
           detail:
             "بادمجان کوچک، روغن زیتون، پنیر موزارلا، پنیر پارمزان، برگ ریحان، گوجه فرنگی، سس گوجه فرنگی",
@@ -1528,7 +1528,7 @@ const db = {
         {
           id: "23",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-3.jfif",
           title: "پیتزا سبزیجات و خامه",
           detail:
             "نخود فرنگی پخته شده، ذرت نیم پز، فلفل دلمه‌ای رنگی، قارچ، سیر یا پیازچه خردشده",
@@ -1542,7 +1542,7 @@ const db = {
         {
           id: "24",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-4.jfif",
           title: "پیتزا قارچ",
           detail:
             "قارچ، فلفل دلمه ای، رب گوجه فرنگی، پودر سیر، آویشن، مرزه، پنیر پیتزا گیاهی",
@@ -1556,7 +1556,7 @@ const db = {
         {
           id: "25",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-5.jfif",
           title: "پیتزا پپرونی",
           detail:
             "تافو، فلفل قرمز خشک شده، پودر دانه‌های خردل، دانه رازیانه، پاپریکا دودی، پودر سیر، شکر نارگیل، پودر بادیان رومی",
@@ -1570,7 +1570,7 @@ const db = {
         {
           id: "26",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-6.jfif",
           title: "پیتزا اسفناج",
           detail: "اسفناج تازه، پیاز، سیر، پنیر پیتزا، قارچ",
           main_price: "۲۸۰٬۰۰۰",
@@ -1583,7 +1583,7 @@ const db = {
         {
           id: "27",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-7.jfif",
           title: "پیتزا مارگاریتا",
           detail: "گوجه فرنگی، ریحان، سیر، پنیر پیتزا",
           main_price: "۱۶۵٬۰۰۰",
@@ -1596,7 +1596,7 @@ const db = {
         {
           id: "28",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-8.jfif",
           title: "پیتزا پنیر",
           detail:
             "نان پیتزا، پنیر پیتزا، سس باربیکیو، گوجه فرنگی، سس کچاپ، سیر، روغن زیتون",
@@ -1612,7 +1612,7 @@ const db = {
         {
           id: "29",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-1.jfif",
           title: "ساندویچ کتلت مخصوص",
           detail:
             "سیب زمینی، لوبیا قرمز،  بلغور گندم، نعناع خشک، پودر زیره، پودر جوز هندی، گوجه فرنگی، روغن زیتون",
@@ -1626,7 +1626,7 @@ const db = {
         {
           id: "30",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-2.jfif",
           title: "ساندویچ سوسیس کوکتل",
           detail: "سوسیس گیاهی، پیاز، سیب زمینی،  رب گوجه فرنگی",
           main_price: "۲۰۵٬۰۰۰",
@@ -1639,7 +1639,7 @@ const db = {
         {
           id: "31",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-3.jfif",
           title: "ساندویچ کتلت کدو سبز",
           detail: "کدو سبز، هویج، سیب زمینی، پیاز",
           main_price: "",
@@ -1652,7 +1652,7 @@ const db = {
         {
           id: "32",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-4.jfif",
           title: "پنینی اسفناج",
           detail:
             " قارچ، اسفناج، پیاز، پنیر پیتزا، خامه، پودر پاپریکا، گردو، سرکه بالزامیک، سس مایونز",
