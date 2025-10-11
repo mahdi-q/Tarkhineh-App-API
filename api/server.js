@@ -1830,7 +1830,7 @@ const db = {
         {
           id: "13",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-1.jfif",
           title: "بروشتای ایتالیایی",
           detail: "نان تست، گوجه فرنگی، سیر، روغن زیتون، ریحان تازه",
           main_price: "۱۴۰٬۰۰۰",
@@ -1843,7 +1843,7 @@ const db = {
         {
           id: "14",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-2.jfif",
           title: "سالاد سزار",
           detail: "کاهو رومی، نان کروتان، مرغ گریل‌شده، سس مخصوص سزار، پارمزان",
           main_price: "۲۱۰٬۰۰۰",
@@ -1856,7 +1856,7 @@ const db = {
         {
           id: "15",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-3.jfif",
           title: "هوموس لبنانی",
           detail: "نخود پخته، ارده، روغن زیتون، سیر، آب‌لیمو",
           main_price: "۱۱۰٬۰۰۰",
@@ -1869,7 +1869,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-4.jfif",
           title: "سالاد یونانی",
           detail: "خیار، گوجه، پنیر فتا، زیتون سیاه، پیاز قرمز، روغن زیتون",
           main_price: "۱۸۰٬۰۰۰",
@@ -1882,7 +1882,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-5.jfif",
           title: "پیتزا رول مینی",
           detail: "خمیر پیتزا، سس گوجه، پنیر موزارلا، پپرونی، ریحان خشک",
           main_price: "۱۹۰٬۰۰۰",
@@ -1895,7 +1895,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-6.jfif",
           title: "سیب‌زمینی فرانسوی با سس مخصوص",
           detail: "سیب‌زمینی سرخ‌کرده، پنیر چدار، سس مخصوص تارتار و فلفل سیاه",
           main_price: "۱۲۰٬۰۰۰",
@@ -1908,7 +1908,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-7.jfif",
           title: "چیپس ناچو با پنیر",
           detail: "چیپس ذرت، پنیر چدار، سس سالسا، فلفل هالاپینو",
           main_price: "۱۶۵٬۰۰۰",
@@ -1921,7 +1921,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-8.jfif",
           title: "بافالو وینگز",
           detail: "بال مرغ سرخ‌شده، سس تند با کره، چاشنی سیر و سرکه",
           main_price: "۲۳۰٬۰۰۰",
@@ -1934,7 +1934,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-9.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-9.jfif",
           title: "مارینیت زیتون و پنیر",
           detail:
             "زیتون سبز و سیاه، پنیر فتا، رزماری، روغن زیتون، فلفل قرمز خشک",
@@ -1948,7 +1948,7 @@ const db = {
         {
           id: "22",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-a-10.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-10.jfif",
           title: "قارچ سوخاری",
           detail: "قارچ تازه، پودر سوخاری، تخم مرغ، ادویه مخصوص، سس تارتار",
           main_price: "۱۵۰٬۰۰۰",
