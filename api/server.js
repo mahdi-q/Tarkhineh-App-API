@@ -1857,7 +1857,7 @@ const db = {
           id: "15",
           image:
             "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-3.jfif",
-          title: "هوموس لبنانی",
+          title: "حمص لبنانی",
           detail: "نخود پخته، ارده، روغن زیتون، سیر، آب‌لیمو",
           main_price: "۱۱۰٬۰۰۰",
           discount: "%۱۰",
@@ -1896,7 +1896,7 @@ const db = {
           id: "18",
           image:
             "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-6.jfif",
-          title: "سیب‌زمینی فرانسوی با سس مخصوص",
+          title: "سیب‌زمینی فرانسوی",
           detail: "سیب‌زمینی سرخ‌کرده، پنیر چدار، سس مخصوص تارتار و فلفل سیاه",
           main_price: "۱۲۰٬۰۰۰",
           discount: "%۱۰",
@@ -1922,7 +1922,7 @@ const db = {
           id: "20",
           image:
             "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-8.jfif",
-          title: "بافالو وینگز",
+          title: "بوفالو وینگز",
           detail: "بال مرغ سرخ‌شده، سس تند با کره، چاشنی سیر و سرکه",
           main_price: "۲۳۰٬۰۰۰",
           discount: "%۲۵",
@@ -1935,7 +1935,7 @@ const db = {
           id: "21",
           image:
             "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-9.jfif",
-          title: "مارینیت زیتون و پنیر",
+          title: "مرینیت زیتون و پنیر",
           detail:
             "زیتون سبز و سیاه، پنیر فتا، رزماری، روغن زیتون، فلفل قرمز خشک",
           main_price: "۱۳۰٬۰۰۰",
