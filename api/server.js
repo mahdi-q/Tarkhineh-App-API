@@ -1815,7 +1815,7 @@ const db = {
         {
           id: "12",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-12.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-12.jpg",
           title: "سوپ جو",
           detail: "جو پرک، هویج، جعفری، شیر، خامه",
           main_price: "۱۴۵٬۰۰۰",
@@ -1830,7 +1830,7 @@ const db = {
         {
           id: "13",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-1.jpg",
           title: "بروشتای ایتالیایی",
           detail: "نان تست، گوجه فرنگی، سیر، روغن زیتون، ریحان تازه",
           main_price: "۱۴۰٬۰۰۰",
@@ -1908,7 +1908,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-a-7.jpg",
           title: "چیپس ناچو با پنیر",
           detail: "چیپس ذرت، پنیر چدار، سس سالسا، فلفل هالاپینو",
           main_price: "۱۶۵٬۰۰۰",
