@@ -1963,7 +1963,7 @@ const db = {
         {
           id: "23",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/soups/s-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/s-1.jfif",
           title: "سوپ جو مخصوص",
           detail:
             "جو پرک، مرغ ریش‌شده، هویج، خامه، شیر، سبزیجات معطر و فلفل سیاه",
@@ -1977,7 +1977,7 @@ const db = {
         {
           id: "24",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/soups/s-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/s-2.jfif",
           title: "سوپ قارچ و مرغ",
           detail: "قارچ تازه، مرغ، خامه، پیاز، فلفل سفید، روغن زیتون، آب مرغ",
           main_price: "۱۱۵٬۰۰۰",
@@ -1990,7 +1990,7 @@ const db = {
         {
           id: "25",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/soups/s-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/s-3.jfif",
           title: "سوپ سبزیجات",
           detail:
             "هویج، سیب زمینی، کرفس، ذرت، نخود فرنگی، گوجه فرنگی، روغن زیتون",
@@ -2004,7 +2004,7 @@ const db = {
         {
           id: "26",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/soups/s-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/s-4.jfif",
           title: "سوپ گوجه فرنگی",
           detail: "گوجه تازه، ریحان، پیاز، سیر، کره، فلفل سیاه، عصاره سبزیجات",
           main_price: "۹۵٬۰۰۰",
@@ -2017,7 +2017,7 @@ const db = {
         {
           id: "27",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/soups/s-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/s-5.jfif",
           title: "سوپ عدس",
           detail: "عدس قرمز، هویج، سیب زمینی، رب گوجه، ادویه کاری و آب سبزیجات",
           main_price: "۱۱۰٬۰۰۰",
@@ -2030,7 +2030,7 @@ const db = {
         {
           id: "28",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/soups/s-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/s-6.jfif",
           title: "سوپ ترخینه سنتی",
           detail:
             "ترخینه خشک، دوغ، سبزیجات معطر، پیاز داغ، سیر، فلفل قرمز و نعناع خشک",
@@ -2046,7 +2046,7 @@ const db = {
         {
           id: "29",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/finger/f-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-f-1.jfif",
           title: "هات‌داگ مخصوص ترخینه",
           detail:
             "هات‌داگ دودی، پنیر گودا، خیارشور، سس مخصوص، پیاز کاراملی و نان تست شده",
@@ -2060,8 +2060,8 @@ const db = {
         {
           id: "30",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/finger/f-2.jfif",
-          title: "سیب‌زمینی با پنیر و بیکن گیاهی",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-f-2.jfif",
+          title: "سیب‌زمینی با پنیر و بیکن",
           detail:
             "سیب‌زمینی سرخ‌شده، پنیر چدار، بیکن گیاهی، پیازچه، فلفل سیاه و سس مخصوص",
           main_price: "۱۸۵٬۰۰۰",
@@ -2074,7 +2074,7 @@ const db = {
         {
           id: "31",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/finger/f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-f-3.jfif",
           title: "ناگت سبزیجات",
           detail:
             "سیب‌زمینی، هویج، نخود فرنگی، ذرت، فلفل دلمه‌ای، پودر سوخاری و ادویه مخصوص",
@@ -2088,7 +2088,7 @@ const db = {
         {
           id: "32",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/finger/f-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/f-f-4.jfif",
           title: "اسپرینگ رول سبزیجات",
           detail:
             "کلم، هویج، فلفل دلمه‌ای، نودل برنج، سس سویا و زنجبیل تازه، رول شده در خمیر مخصوص",
