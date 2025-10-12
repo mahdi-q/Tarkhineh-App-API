@@ -1672,7 +1672,7 @@ const db = {
         {
           id: "1",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-1.jpg",
           title: "زیتون پرورده",
           detail: "زیتون سبز، گردو، رب انار، سیر، سبزی معطر",
           main_price: "۹۰٬۰۰۰",
@@ -1685,7 +1685,7 @@ const db = {
         {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-2.jpg",
           title: "ماست موسیر",
           detail: "ماست چکیده، موسیر خشک، نمک",
           main_price: "",
@@ -1698,7 +1698,7 @@ const db = {
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-3.jpg",
           title: "ماست و خیار",
           detail: "ماست، خیار ریز خرد شده، نعناع خشک، گردو",
           main_price: "۷۵٬۰۰۰",
@@ -1711,7 +1711,7 @@ const db = {
         {
           id: "4",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-4.jpg",
           title: "بورانی اسفناج",
           detail: "اسفناج پخته، ماست چکیده، سیر، نمک",
           main_price: "۹۵٬۰۰۰",
@@ -1724,7 +1724,7 @@ const db = {
         {
           id: "5",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-5.jpg",
           title: "سیر ترشی",
           detail: "سیر، سرکه، نمک، شکر (ترش و کهنه)",
           main_price: "",
@@ -1737,7 +1737,7 @@ const db = {
         {
           id: "6",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-6.jpg",
           title: "ترشی مخلوط",
           detail: "گل کلم، هویج، فلفل سبز، خیار شور، سرکه طبیعی",
           main_price: "۸۵٬۰۰۰",
@@ -1750,7 +1750,7 @@ const db = {
         {
           id: "7",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-7.jpg",
           title: "کشک و بادمجان لقمه‌ای",
           detail: "بادمجان سرخ شده، کشک، نعناع خشک، گردو، سیر",
           main_price: "۱۲۰٬۰۰۰",
@@ -1763,7 +1763,7 @@ const db = {
         {
           id: "8",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-8.jpg",
           title: "ماست چکیده زعفرانی",
           detail: "ماست چکیده، زعفران دم‌کرده، خلال پسته، عسل",
           main_price: "۱۱۰٬۰۰۰",
@@ -1776,7 +1776,7 @@ const db = {
         {
           id: "9",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-9.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-9.jpg",
           title: "ماست بادمجان",
           detail: "بادمجان کبابی، ماست چکیده، سیر، گردو، فلفل سیاه",
           main_price: "۸۰٬۰۰۰",
@@ -1789,7 +1789,7 @@ const db = {
         {
           id: "10",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-10.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-10.jpg",
           title: "زیتون ساده",
           detail: "زیتون سبز خالص بدون افزودنی",
           main_price: "",
@@ -1802,7 +1802,7 @@ const db = {
         {
           id: "11",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-11.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/appetizer/p-a-11.jpg",
           title: "سبزی خوردن تازه",
           detail: "ریحان، تره، شاهی، تربچه، پیازچه",
           main_price: "۵۰٬۰۰۰",
