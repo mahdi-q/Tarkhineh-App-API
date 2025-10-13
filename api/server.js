@@ -2188,7 +2188,7 @@ const db = {
         {
           id: "11",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-1.jpg",
           title: "چیزکیک نیویورکی",
           detail: "پنیر خامه‌ای، بیسکوییت، کره، سس توت فرنگی",
           main_price: "۲۳۰٬۰۰۰",
@@ -2201,7 +2201,7 @@ const db = {
         {
           id: "12",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-2.jpg",
           title: "پودینگ شکلاتی",
           detail: "شکلات تلخ، شیر، شکر، خامه، طعمی غلیظ و دلچسب",
           main_price: "۲۰۵٬۰۰۰",
@@ -2214,7 +2214,7 @@ const db = {
         {
           id: "13",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-3.jpg",
           title: "تیرامیسو",
           detail: "کیک اسفنجی، ماسکارپونه، قهوه، کاکائو",
           main_price: "۲۲۰٬۰۰۰",
@@ -2227,7 +2227,7 @@ const db = {
         {
           id: "14",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-4.jpg",
           title: "پاناکوتا",
           detail: "خامه، ژلاتین، شکر، سس توت فرنگی",
           main_price: "۱۸۵٬۰۰۰",
@@ -2240,8 +2240,8 @@ const db = {
         {
           id: "15",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-5.jfif",
-          title: "کراست پودینگ انگلیسی",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-5.jpg",
+          title: "کراست پودینگ",
           detail: "نان، شیر، شکر، کشمش، طعم سنتی انگلیسی",
           main_price: "۱۷۵٬۰۰۰",
           discount: "%۱۰",
@@ -2253,7 +2253,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-6.jpg",
           title: "موس شکلاتی",
           detail: "شکلات تلخ، تخم مرغ، شکر، خامه، طعمی سبک و مطبوع",
           main_price: "۱۹۰٬۰۰۰",
@@ -2266,7 +2266,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-7.jpg",
           title: "کرم کارامل",
           detail: "شیر، تخم مرغ، شکر، وانیل، طعم کلاسیک فرانسوی",
           main_price: "۱۷۰٬۰۰۰",
@@ -2279,7 +2279,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/f-d-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/f-d-8.jpg",
           title: "مادلن فرانسوی",
           detail: "آرد، شکر، تخم مرغ، کره، طعمی سبک و خوشبو",
           main_price: "۱۸۰٬۰۰۰",
