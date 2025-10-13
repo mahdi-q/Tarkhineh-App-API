@@ -2106,22 +2106,9 @@ const db = {
       name: "dessert",
       persian_desserts: [
         {
-          id: "1",
-          image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-1.jfif",
-          title: "زولبیا و بامیه",
-          detail: "زولبیا، بامیه، شربت و گلاب، طعم شیرین و سنتی",
-          main_price: "۱۲۰٬۰۰۰",
-          discount: "%۱۰",
-          price: "۱۰۸٬۰۰۰",
-          rate: "5",
-          score: "۸۴",
-          isLiked: false,
-        },
-        {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/p-d-1.jpg",
           title: "شیرینی قطاب",
           detail: "آرد، گردو، هل، شکر، طعم سنتی و خوشمزه",
           main_price: "۹۵٬۰۰۰",
@@ -2134,7 +2121,7 @@ const db = {
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/p-d-2.jpg",
           title: "سوهان",
           detail: "شکر، کره، زعفران، خلال پسته، طعم اصیل ایرانی",
           main_price: "۱۱۰٬۰۰۰",
@@ -2147,7 +2134,7 @@ const db = {
         {
           id: "4",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/p-d-3.jpg",
           title: "باقلوا",
           detail: "خمیر فیلو، گردو، شربت شیرین، طعم سنتی و دلپذیر",
           main_price: "۱۳۰٬۰۰۰",
@@ -2158,35 +2145,9 @@ const db = {
           isLiked: false,
         },
         {
-          id: "5",
-          image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-5.jfif",
-          title: "حلوا شکری",
-          detail: "آرد، شکر، کره، روغن، طعم سنتی ایرانی",
-          main_price: "۹۰٬۰۰۰",
-          discount: "",
-          price: "۹۰٬۰۰۰",
-          rate: "4",
-          score: "۷۰",
-          isLiked: false,
-        },
-        {
-          id: "6",
-          image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-6.jfif",
-          title: "پشمک",
-          detail: "شکر، پسته، بادام، طعم شیرین و سبک",
-          main_price: "۸۵٬۰۰۰",
-          discount: "%۵",
-          price: "۸۰٬۷۵۰",
-          rate: "4",
-          score: "۶۸",
-          isLiked: false,
-        },
-        {
           id: "7",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/p-d-4.jpg",
           title: "فرنی با گلاب",
           detail: "آرد برنج، شیر، شکر، گلاب، طعمی ملایم و سنتی",
           main_price: "۷۵٬۰۰۰",
@@ -2197,22 +2158,9 @@ const db = {
           isLiked: false,
         },
         {
-          id: "8",
-          image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-8.jfif",
-          title: "حلوا ارده",
-          detail: "ارده، شکر، کره، مغز پسته، طعم شیرین و خوشمزه",
-          main_price: "۱۱۵٬۰۰۰",
-          discount: "%۱۵",
-          price: "۹۷٬۷۵۰",
-          rate: "5",
-          score: "۸۳",
-          isLiked: false,
-        },
-        {
           id: "9",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-9.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/p-d-5.jpg",
           title: "گلابی پخته با شکر",
           detail: "گلابی تازه، شکر، دارچین، طعم ملایم و سنتی",
           main_price: "۹۰٬۰۰۰",
@@ -2225,7 +2173,7 @@ const db = {
         {
           id: "10",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/p-d-10.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/p-d-6.jpg",
           title: "کیک یزدی",
           detail: "آرد، شکر، تخم مرغ، روغن، طعم سنتی و سبک",
           main_price: "۸۵٬۰۰۰",
