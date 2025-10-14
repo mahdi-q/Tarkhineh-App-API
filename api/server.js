@@ -2406,7 +2406,7 @@ const db = {
         {
           id: "1",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-1.jpg",
           title: "دوغ سنتی",
           detail: "دوغ، نعناع خشک، کمی نمک، طعمی خنک و سنتی",
           main_price: "۳۰٬۰۰۰",
@@ -2419,7 +2419,7 @@ const db = {
         {
           id: "2",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-2.jpg",
           title: "عرق نعناع",
           detail: "عرق نعناع طبیعی، طعم خنک و خوشبو",
           main_price: "۲۵٬۰۰۰",
@@ -2432,7 +2432,7 @@ const db = {
         {
           id: "3",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-3.jpg",
           title: "شربت زعفران",
           detail: "زعفران، شکر، آب، کمی لیمو، طعم شیرین و دلپذیر",
           main_price: "۴۰٬۰۰۰",
@@ -2445,7 +2445,7 @@ const db = {
         {
           id: "4",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-4.jpg",
           title: "شربت سکنجبین",
           detail: "سکنجبین، عسل، طعم ترش و شیرین طبیعی",
           main_price: "۳۵٬۰۰۰",
@@ -2458,7 +2458,7 @@ const db = {
         {
           id: "5",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-5.jpg",
           title: "شربت آلبالو",
           detail: "آلبالو، شکر، آب، طعمی ملس و خوشمزه",
           main_price: "۳۵٬۰۰۰",
@@ -2471,7 +2471,7 @@ const db = {
         {
           id: "6",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-6.jpg",
           title: "شربت به لیمو",
           detail: "به، لیمو، شکر، طعمی تازه و خوشایند",
           main_price: "۳۸٬۰۰۰",
@@ -2484,7 +2484,7 @@ const db = {
         {
           id: "7",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-7.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-7.jpg",
           title: "سرویس چای سنتی",
           detail: "چای سیاه، هل، دارچین، طعمی گرم و دلنشین",
           main_price: "۲۰٬۰۰۰",
@@ -2497,7 +2497,7 @@ const db = {
         {
           id: "8",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/p-d-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/p-d-8.jpg",
           title: "شربت لیمو",
           detail: "آبلیمو، شکر، نعناع خشک، طعمی خنک و تازه",
           main_price: "۳۰٬۰۰۰",
