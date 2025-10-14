@@ -2348,7 +2348,7 @@ const db = {
         {
           id: "23",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/c-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/c-1.jpg",
           title: "کیک شکلاتی",
           detail: "آرد، شکر، تخم مرغ، کره، شکلات تلخ، خامه",
           main_price: "۲۲۰٬۰۰۰",
@@ -2361,7 +2361,7 @@ const db = {
         {
           id: "24",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/c-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/c-2.jpg",
           title: "کیک وانیلی",
           detail: "آرد، شکر، تخم مرغ، کره، وانیل، خامه",
           main_price: "۲۰۰٬۰۰۰",
@@ -2374,7 +2374,7 @@ const db = {
         {
           id: "25",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/c-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/c-3.jpg",
           title: "کیک کاراملی",
           detail: "آرد، شکر، کره، کارامل، تخم مرغ، طعمی شیرین و خوشبو",
           main_price: "۲۱۰٬۰۰۰",
@@ -2387,7 +2387,7 @@ const db = {
         {
           id: "26",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/c-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/c-4.jpg",
           title: "کیک میوه‌ای",
           detail: "آرد، شکر، تخم مرغ، کره، میوه‌های تازه، خامه",
           main_price: "۲۳۰٬۰۰۰",
