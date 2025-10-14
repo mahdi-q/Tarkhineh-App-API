@@ -2294,7 +2294,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/j-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/j-1.jpg",
           title: "ژله توت فرنگی",
           detail: "پودر ژله، شکر، آب، طعمی ملایم و شیرین",
           main_price: "۷۵٬۰۰۰",
@@ -2307,7 +2307,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/j-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/j-2.jpg",
           title: "ژله آناناس",
           detail: "ژله آناناس، شکر، آب، طعم شیرین و ترش",
           main_price: "۸۰٬۰۰۰",
@@ -2320,7 +2320,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/j-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/j-3.jpg",
           title: "ژله آلبالو",
           detail: "ژله آلبالو، شکر، آب، طعم ملس و خوشمزه",
           main_price: "۷۸٬۰۰۰",
@@ -2333,7 +2333,7 @@ const db = {
         {
           id: "22",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/desserts/j-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/dessert/j-4.jpg",
           title: "ژله پرتقال",
           detail: "ژله پرتقال، شکر، آب، طعم تازه و خوشایند",
           main_price: "۷۵٬۰۰۰",
