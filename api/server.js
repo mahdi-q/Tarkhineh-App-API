@@ -2512,7 +2512,7 @@ const db = {
         {
           id: "9",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/f-d-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/f-d-1.jpg",
           title: "لیموناد کلاسیک",
           detail: "آبلیمو، شکر، آب، طعمی خنک و تازه",
           main_price: "۳۵٬۰۰۰",
@@ -2525,7 +2525,7 @@ const db = {
         {
           id: "10",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/f-d-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/f-d-2.jpg",
           title: "آب پرتقال تازه",
           detail: "پرتقال تازه، طبیعی و بدون افزودنی",
           main_price: "۳۵٬۰۰۰",
@@ -2538,7 +2538,7 @@ const db = {
         {
           id: "11",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/f-d-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/f-d-3.jpg",
           title: "شیک شکلات",
           detail: "شیر، شکلات، خامه، طعمی غنی و خوشمزه",
           main_price: "۴۵٬۰۰۰",
@@ -2551,7 +2551,7 @@ const db = {
         {
           id: "12",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/f-d-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/f-d-4.jpg",
           title: "شیک وانیلی",
           detail: "شیر، وانیل، شکر، خامه، طعمی ملایم و خوشبو",
           main_price: "۴۰٬۰۰۰",
@@ -2564,7 +2564,7 @@ const db = {
         {
           id: "13",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/f-d-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/f-d-5.jpg",
           title: "آیس تی لیمو",
           detail: "چای سیاه، آبلیمو، شکر، یخ، طعمی خنک و تازه",
           main_price: "۳۰٬۰۰۰",
@@ -2577,7 +2577,7 @@ const db = {
         {
           id: "14",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/f-d-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/f-d-6.jpg",
           title: "موهیتو",
           detail: "نعناع تازه، شکر، آبلیمو، سودا، طعمی خنک و جذاب",
           main_price: "۴۰٬۰۰۰",
