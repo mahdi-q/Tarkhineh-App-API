@@ -2592,7 +2592,7 @@ const db = {
         {
           id: "15",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/c-d-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-1.jpg",
           title: "آب سیب طبیعی",
           detail: "سیب تازه، طبیعی و بدون افزودنی",
           main_price: "۳۰٬۰۰۰",
@@ -2605,7 +2605,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/c-d-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-2.jpg",
           title: "نوشابه قوطی",
           detail: "کولا، گازدار و خنک",
           main_price: "۲۰٬۰۰۰",
@@ -2618,7 +2618,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/c-d-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-3.jpg",
           title: "دلستر",
           detail: "ماءالشعیر بدون الکل، طعمی شیرین و خنک",
           main_price: "۲۵٬۰۰۰",
@@ -2631,7 +2631,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/c-d-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-4.jpg",
           title: "آب هندوانه",
           detail: "هندوانه تازه، طبیعی و خنک",
           main_price: "۳۰٬۰۰۰",
