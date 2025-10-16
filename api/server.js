@@ -2606,7 +2606,7 @@ const db = {
           id: "16",
           image:
             "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-2.jpg",
-          title: "نوشابه قوطی",
+          title: "نوشابه",
           detail: "کولا، گازدار و خنک",
           main_price: "۲۰٬۰۰۰",
           discount: "",
@@ -2646,7 +2646,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/h-d-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/h-d-1.jpg",
           title: "چای سیاه",
           detail: "چای سیاه خالص، طعمی گرم و دلنشین",
           main_price: "۲۰٬۰۰۰",
@@ -2659,7 +2659,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/h-d-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/h-d-2.jpg",
           title: "چای سبز",
           detail: "چای سبز خالص، آرامش‌بخش و مفید",
           main_price: "۲۰٬۰۰۰",
@@ -2672,7 +2672,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/h-d-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/h-d-3.jpg",
           title: "قهوه اسپرسو",
           detail: "قهوه خالص، طعمی غلیظ و قوی",
           main_price: "۳۵٬۰۰۰",
@@ -2685,7 +2685,7 @@ const db = {
         {
           id: "22",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drinks/h-d-4.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/h-d-4.jpg",
           title: "چای ماسالا",
           detail: "چای سیاه، ادویه ماسالا، شیر، طعمی گرم و معطر",
           main_price: "۳۵٬۰۰۰",
