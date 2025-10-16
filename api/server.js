@@ -82,7 +82,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-1.jfif",
           title: "ساندویچ کتلت مخصوص",
           main_price: "۲۳۰٬۰۰۰",
           discount: "%۱۸",
@@ -94,7 +94,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-3.jfif",
           title: "میرزا قاسمی",
           main_price: "۱۶۵٬۰۰۰",
           discount: "%۱۰",
@@ -168,7 +168,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-2.jfif",
           title: "ساندویچ سوسیس کوکتل",
           main_price: "۲۰۵٬۰۰۰",
           discount: "%۳۵",
@@ -180,7 +180,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-5.jfif",
           title: "فلافل",
           main_price: "",
           discount: "",
@@ -254,7 +254,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-6.jfif",
           title: "پیتزا اسفناج",
           main_price: "۲۸۰٬۰۰۰",
           discount: "%۱۰",
@@ -266,7 +266,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-8.jfif",
           title: "پالاک پنیر ",
           main_price: "۲۰۰٬۰۰۰",
           discount: "%۱۵",
@@ -339,7 +339,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-1.jfif",
           title: "ساندویچ کتلت مخصوص",
           main_price: "۲۳۰٬۰۰۰",
           discount: "%۱۸",
@@ -375,7 +375,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-3.jfif",
           title: "میرزا قاسمی",
           main_price: "۱۶۵٬۰۰۰",
           discount: "%۱۰",
@@ -413,7 +413,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-5.jfif",
           title: "فلافل",
           main_price: "",
           discount: "",
@@ -473,7 +473,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-2.jfif",
           title: "ساندویچ سوسیس کوکتل",
           main_price: "۲۰۵٬۰۰۰",
           discount: "%۳۵",
@@ -511,7 +511,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-6.jfif",
           title: "پیتزا اسفناج",
           main_price: "۲۸۰٬۰۰۰",
           discount: "%۱۰",
@@ -547,7 +547,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-8.jfif",
           title: "پالاک پنیر ",
           main_price: "۲۰۰٬۰۰۰",
           discount: "%۱۵",
@@ -631,7 +631,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-3.jfif",
           title: "میرزا قاسمی",
           main_price: "۱۶۵٬۰۰۰",
           discount: "%۱۰",
@@ -691,7 +691,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-1.jfif",
           title: "ساندویچ کتلت مخصوص",
           main_price: "۲۳۰٬۰۰۰",
           discount: "%۱۸",
@@ -741,7 +741,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-2.jfif",
           title: "ساندویچ سوسیس کوکتل",
           main_price: "۲۰۵٬۰۰۰",
           discount: "%۳۵",
@@ -765,7 +765,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-5.jfif",
           title: "فلافل",
           main_price: "",
           discount: "",
@@ -803,7 +803,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-8.jfif",
           title: "پالاک پنیر ",
           main_price: "۲۰۰٬۰۰۰",
           discount: "%۱۵",
@@ -863,7 +863,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-6.jfif",
           title: "پیتزا اسفناج",
           main_price: "۲۸۰٬۰۰۰",
           discount: "%۱۰",
@@ -947,7 +947,7 @@ const db = {
         {
           id: "17",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-3.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-3.jfif",
           title: "میرزا قاسمی",
           main_price: "۱۶۵٬۰۰۰",
           discount: "%۱۰",
@@ -1007,7 +1007,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-1.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-1.jfif",
           title: "ساندویچ کتلت مخصوص",
           main_price: "۲۳۰٬۰۰۰",
           discount: "%۱۸",
@@ -1045,7 +1045,7 @@ const db = {
         {
           id: "19",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-f-5.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-f-5.jfif",
           title: "فلافل",
           main_price: "",
           discount: "",
@@ -1093,7 +1093,7 @@ const db = {
         {
           id: "18",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/s-2.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/s-2.jfif",
           title: "ساندویچ سوسیس کوکتل",
           main_price: "۲۰۵٬۰۰۰",
           discount: "%۳۵",
@@ -1143,7 +1143,7 @@ const db = {
         {
           id: "20",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/p-6.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/p-6.jfif",
           title: "پیتزا اسفناج",
           main_price: "۲۸۰٬۰۰۰",
           discount: "%۱۰",
@@ -1167,7 +1167,7 @@ const db = {
         {
           id: "21",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/f-f-8.jfif",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/main_dish/f-f-8.jfif",
           title: "پالاک پنیر ",
           main_price: "۲۰۰٬۰۰۰",
           discount: "%۱۵",
