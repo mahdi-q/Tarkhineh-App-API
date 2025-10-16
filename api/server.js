@@ -2605,7 +2605,7 @@ const db = {
         {
           id: "16",
           image:
-            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-2.jpg",
+            "https://raw.githubusercontent.com/mahdi-q/Tarkhineh-App-API/refs/heads/master/images/menu/drink/c-d-2.jpg?v=2",
           title: "نوشابه",
           detail: "کولا، گازدار و خنک",
           main_price: "۲۰٬۰۰۰",
